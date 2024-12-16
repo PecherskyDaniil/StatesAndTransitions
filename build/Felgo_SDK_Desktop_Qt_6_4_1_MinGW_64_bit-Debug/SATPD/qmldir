@@ -1,0 +1,4 @@
+module SATPD
+typeinfo appSATPD.qmltypes
+prefer :/
+

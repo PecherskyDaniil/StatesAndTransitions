@@ -1,0 +1,14 @@
+-rootPath
+C:/Users/cdtt3/Documents/SATPD
+-cmake-output
+-output-file
+C:/Users/cdtt3/Documents/SATPD/build/Felgo_SDK_Desktop_Qt_6_4_1_MinGW_64_bit-Debug/.qt_plugins/Qt6_QmlPlugins_Imports_appSATPD.cmake
+-importPath
+C:/Users/cdtt3/Documents/SATPD/build/Felgo_SDK_Desktop_Qt_6_4_1_MinGW_64_bit-Debug/SATPD
+-importPath
+C:/Users/cdtt3/Documents/SATPD/build/Felgo_SDK_Desktop_Qt_6_4_1_MinGW_64_bit-Debug
+-importPath
+D:/Felgo/Felgo/mingw_64/./qml
+-qrcFiles
+C:/Users/cdtt3/Documents/SATPD/build/Felgo_SDK_Desktop_Qt_6_4_1_MinGW_64_bit-Debug/.rcc/qmake_SATPD.qrc
+C:/Users/cdtt3/Documents/SATPD/build/Felgo_SDK_Desktop_Qt_6_4_1_MinGW_64_bit-Debug/.rcc/qmake_SATPD_copy.qrc

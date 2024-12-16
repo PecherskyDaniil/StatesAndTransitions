@@ -1,0 +1,8 @@
+{
+    "title": "SATPD",
+    "identifier": "com.yourcompany.wizardEVAP.SATPD",
+    "orientation": "auto",
+    "versioncode": 1,
+    "versionname": "1.0.0",
+    "stage": "test"
+}
